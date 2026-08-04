@@ -1,1 +1,2 @@
-# Hub_Inova-o
+# Hub_Inovação
+Destinado aos Alunos do curso de Contrução de Games.
